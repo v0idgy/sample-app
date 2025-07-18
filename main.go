@@ -5,7 +5,6 @@ import (
 	"image/color"
 	"image/png"
 	"net/http"
-
 	"golang.org/x/image/draw"
 )
 
